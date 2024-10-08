@@ -30,10 +30,8 @@
         # cd alx-FE-Capstone-Project 
     3. Install dependencies: 
         # npm install 
-    4. Create a .env file in the root directory and add your OpenWeatherMap API key: 
-        # REACT_APP_WEATHER_API_KEY=your_openweathermap_api_key 
     5. Start the application: 
-        # npm start
+        # npm run dev
 5. Usage Once the app is running, users can enter a country and city name in the form to view the current weather.
 6. API Integration This application uses the OpenWeatherMap API to fetch weather data. 
     Make sure to sign up for an API key on their website and add it to the .env file as shown in the setup instructions.
