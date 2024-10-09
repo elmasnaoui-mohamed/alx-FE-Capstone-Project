@@ -25,13 +25,13 @@
     - Deployment Platform: Netlify
 4. Setup and Installation To run this project locally: 
     1. Clone the repository: 
-        ## git clone https://github.com/elmasnaoui-mohamed/alx-FE-Capstone-Project.git 
+        ### git clone https://github.com/elmasnaoui-mohamed/alx-FE-Capstone-Project.git 
     2. Navigate into the project directory: 
-        ## cd alx-FE-Capstone-Project 
+        ### cd alx-FE-Capstone-Project 
     3. Install dependencies: 
-        ## npm install 
+        ### npm install 
     5. Start the application: 
-        ## npm run dev
+        ### npm run dev
 5. Usage Once the app is running, users can enter a country and city name in the form to view the current weather.
 6. API Integration This application uses the OpenWeatherMap API to fetch weather data. 
     Make sure to sign up for an API key on their website and add it to the .env file as shown in the setup instructions.
