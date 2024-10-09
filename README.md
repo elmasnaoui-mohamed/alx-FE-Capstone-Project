@@ -7,8 +7,7 @@
 3. Technologies Used 
 4. Setup and Installation 
 5. Usage 6. API Integration 
-7. Future Improvements 
-8. Acknowledgments
+7. Acknowledgments
 
     1. Project Overview 
         The Weather Dashboard is a web application developed as part of my Frontend Web Development Capstone project. 
