@@ -10,7 +10,7 @@
 7. Acknowledgments
 
     1. Project Overview 
-        The Weather Dashboard is a web application developed as part of my Frontend Web Development Capstone project. 
+        - The Weather Dashboard is a web application developed as part of my Frontend Web Development Capstone project. 
         It provides users with real-time weather data for locations they specify. 
         The project integrates the OpenWeatherMap API to retrieve weather information and is built with React.
     2. Features 
